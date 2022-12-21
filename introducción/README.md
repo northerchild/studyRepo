@@ -1,4 +1,6 @@
 # Documentación Motzilla
-(https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 # ES6
-(https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html)
+https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html
+# Promesas
+https://www.freecodecamp.org/espanol/news/que-es-una-promesa-promesas-de-javascript-para-principiantes/
