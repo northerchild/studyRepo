@@ -7,3 +7,6 @@ https://www.freecodecamp.org/espanol/news/que-es-una-promesa-promesas-de-javascr
 
 # Git
 https://www.atlassian.com/es/git/glossary
+
+# Codigos HTTP
+https://developer.mozilla.org/es/docs/Web/HTTP/Status
